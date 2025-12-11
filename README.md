@@ -1,5 +1,4 @@
 # FAANG-Predictive-Analytics
-# FAANG-Predictive-Analytics
 
 ## Project Summary
 This repository contains a predictive analytics project focusing on the stock movements of FAANG companies (Facebook, Apple, Amazon, Netflix, Google). The goal is to predict daily stock price direction and compare the performance of different machine learning models.
