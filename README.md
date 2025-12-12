@@ -1,6 +1,6 @@
 Project Overview
 
-This project explores whether machine learning models can meaningfully predict the daily direction of stock price movements for major technology companies commonly referred to as FAANG: Facebook Meta Apple Amazon Netflix and Google.
+This project explores whether machine learning models can meaningfully predict the daily direction of stock price movements for major technology companies commonly referred to as FAANG: Facebook Meta, Apple, Amazon, Netflix, and Google.
 
 Using historical stock price data, the analysis focuses on identifying patterns in returns, trends, and volatility and evaluating whether these signals can be used to predict whether a stock’s price will move up or down the following trading day. The project combines exploratory data analysis with predictive modeling and emphasizes interpretability and real world relevance rather than purely optimizing accuracy.
 
