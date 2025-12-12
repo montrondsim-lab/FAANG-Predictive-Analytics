@@ -8,7 +8,7 @@ This work was completed as part of the ISOM 835 course at Suffolk University and
 
 Business Problem
 
-Financial markets are noisy and highly efficient, making short term price prediction extremely challenging. Despite this, technical indicators such as returns, moving averages, and volatility are widely used by analysts and traders to inform decision making. Sometimes when looking at a stock chart, we can see points where price intersection with a moving average indicating that a stock price will go up or down. While its easy to see and draw these conlusions looking at historical data, this project explores how different models would react to this performance. 
+Financial markets are noisy and highly efficient, making short term price prediction extremely challenging. Despite this, technical indicators such as returns, moving averages, and volatility are widely used by analysts and traders to inform decision making. Sometimes when looking at a stock chart, we can see points where price intersection with a moving average indicating that a stock price will go up or down. While its easy to see and draw these conlusions looking at historical data, this project explores how different models would react to to historical data. 
 
 The core question of this project is whether these commonly used indicators contain enough information to support short term directional predictions and whether more complex machine learning models provide meaningful improvements over simpler approaches.
 
