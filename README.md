@@ -14,7 +14,7 @@ The core question of this project is whether these commonly used indicators cont
 
 Objectives
 
-The objectives of this project are to explore historical stock behavior across FAANG companies, build and evaluate machine learning models that predict next day price direction, compare model performance across firms and algorithms, translate technical results into business relevant insights, and reflect on ethical considerations related to predictive modeling in financial markets.
+The objectives of this project are to explore historical stock behavior across FAANG companies, build and evaluate machine learning models that predict next day price direction, compare model performance across firms and algorithms, translate technical results into business relevant insights, and reflect on ethical considerations related to predictive modeling in financial markets. I will note that the visuals are reflect the model's performance using data on Amazon stock. 
 
 Dataset
 
