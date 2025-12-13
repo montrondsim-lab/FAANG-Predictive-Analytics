@@ -61,4 +61,4 @@ Python was used for all analysis with pandas and numpy for data manipulation, ma
 
 Acknowledgments
 
-This project was completed as part of the ISOM 835 course at Suffolk University. Some code generation and debugging assistance was provided by AI tools. All analysis, interpretation, and conclusions are my own.
+This project was completed as part of the ISOM 835 course at Suffolk University. Some code generation and debugging assistance was provided by AI tools. 
